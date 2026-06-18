@@ -1,0 +1,31 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+Recordings/
+
+# IDEs y editores
+.vscode/
+.vs/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.opendb
+*.VC.db
+*.slnx
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Plastic SCM
+.plastic/
